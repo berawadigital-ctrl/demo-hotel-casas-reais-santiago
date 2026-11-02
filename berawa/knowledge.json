@@ -1,0 +1,598 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-casas-reais-santiago",
+ "source_site": "https://casasreais.es/",
+ "source_read_at": "2026-11-02T09:00:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitaciones",
+     "tipos de habitacion",
+     "doble",
+     "atico"
+    ],
+    "en": [
+     "rooms",
+     "room types",
+     "double",
+     "attic"
+    ],
+    "fr": [
+     "chambres",
+     "types de chambre",
+     "double",
+     "sous les toits"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertyp",
+     "doppelzimmer",
+     "dachgeschoss"
+    ]
+   },
+   "a": {
+    "es": "Hay 11 habitaciones, todas exteriores e insonorizadas: doble (cama de 150 cm), doble superior (en esquina, más amplia), doble deluxe (cama de 180 cm y bañera de hidromasaje) y ático con bañera de hidromasaje y vistas sobre Santiago.",
+    "en": "There are 11 rooms, all exterior-facing and soundproofed: double (150 cm bed), superior double (corner, more spacious), deluxe double (180 cm bed and whirlpool bath) and attic room with whirlpool bath and views over Santiago.",
+    "fr": "Il y a 11 chambres, toutes sur l’extérieur et insonorisées : double (lit de 150 cm), double supérieure (d’angle, plus spacieuse), double deluxe (lit de 180 cm et baignoire balnéo) et chambre sous les toits avec baignoire balnéo et vue sur Santiago.",
+    "de": "Es gibt 11 Zimmer, alle nach außen gelegen und schallisoliert: Doppelzimmer (150-cm-Bett), Doppelzimmer Superior (Ecklage, geräumiger), Deluxe-Doppelzimmer (180-cm-Bett und Whirlpool-Badewanne) und Dachgeschosszimmer mit Whirlpool-Badewanne und Blick über Santiago."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/habitaciones/",
+     "quote": "Las 11 habitaciones de Casas Reais tienen una identidad propia"
+    },
+    {
+     "url": "https://casasreais.es/habitaciones/",
+     "quote": "Cómoda e insonorizada, con cama de 150 cm"
+    },
+    {
+     "url": "https://casasreais.es/habitaciones/",
+     "quote": "Amplia y elegante, con cama de 180 cm, Smart TV de 65” y bañera de hidromasaje"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "hidromasaje",
+   "keys": {
+    "es": [
+     "hidromasaje",
+     "jacuzzi",
+     "banera"
+    ],
+    "en": [
+     "whirlpool",
+     "jacuzzi",
+     "bathtub"
+    ],
+    "fr": [
+     "balneo",
+     "jacuzzi",
+     "baignoire"
+    ],
+    "de": [
+     "whirlpool",
+     "jacuzzi",
+     "badewanne"
+    ]
+   },
+   "a": {
+    "es": "Sí: la bañera de hidromasaje está en las habitaciones Deluxe y Ático.",
+    "en": "Yes: the whirlpool bath is in the Deluxe and Attic rooms.",
+    "fr": "Oui : la baignoire balnéo se trouve dans les chambres Deluxe et Ático (sous les toits).",
+    "de": "Ja: Die Whirlpool-Badewanne gibt es in den Zimmern Deluxe und Ático (Dachgeschoss)."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/habitaciones/",
+     "quote": "Bañera de hidromasaje disponible en las habitaciones Deluxe y Ático"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "aire acondicionado",
+     "calefaccion",
+     "minibar",
+     "caja fuerte",
+     "tienen las habitaciones"
+    ],
+    "en": [
+     "wifi",
+     "air conditioning",
+     "heating",
+     "minibar",
+     "safe",
+     "include"
+    ],
+    "fr": [
+     "wifi",
+     "climatisation",
+     "chauffage",
+     "minibar",
+     "coffre",
+     "comprennent"
+    ],
+    "de": [
+     "wlan",
+     "klimaanlage",
+     "heizung",
+     "minibar",
+     "safe",
+     "bieten die zimmer"
+    ]
+   },
+   "a": {
+    "es": "Todas tienen colchones premium, Smart TV de 55” o 65” según la habitación, escritorio, WiFi gratuito, aire acondicionado, calefacción, minibar y caja fuerte.",
+    "en": "All have premium mattresses, a 55” or 65” Smart TV depending on the room, a desk, free WiFi, air conditioning, heating, a minibar and a safe.",
+    "fr": "Toutes ont des matelas premium, une Smart TV 55” ou 65” selon la chambre, un bureau, le WiFi gratuit, la climatisation, le chauffage, un minibar et un coffre-fort.",
+    "de": "Alle haben Premium-Matratzen, ein 55”- oder 65”-Smart-TV je nach Zimmer, Schreibtisch, kostenloses WLAN, Klimaanlage, Heizung, Minibar und Safe."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/habitaciones/",
+     "quote": "Smart TV de 55” o 65”, según la habitación, escritorio y conexión WiFi gratuita"
+    },
+    {
+     "url": "https://casasreais.es/habitaciones/",
+     "quote": "Aire acondicionado, calefacción, minibar y caja fuerte"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "El desayuno es artesano: pan, bollería y tarta de Santiago elaborados a mano, con café de alta calidad. Se sirve en la cafetería y salón para huéspedes.",
+    "en": "Breakfast is homemade: bread, pastries and Santiago tart made by hand, with high-quality coffee. It is served in the guests’ café and lounge.",
+    "fr": "Le petit-déjeuner est artisanal : pain, viennoiseries et tarte de Santiago faits main, avec un café de grande qualité. Il est servi dans la cafétéria et le salon réservés aux clients.",
+    "de": "Das Frühstück ist handgemacht: Brot, Gebäck und Santiago-Torte, dazu Kaffee in hoher Qualität. Serviert wird es im Café und Aufenthaltsraum für Gäste."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Pan, bollería y tarta de Santiago elaborados a mano, acompañados de un café de alta calidad"
+    },
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Cafetería y salón para huéspedes Un espacio de uso exclusivo para nuestros clientes donde desayunar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "coche",
+     "electrico"
+    ],
+    "en": [
+     "parking",
+     "park ",
+     "car ",
+     "electric"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture",
+     "electrique"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "auto",
+     "elektro"
+    ]
+   },
+   "a": {
+    "es": "El casco histórico es zona peatonal; hay un aparcamiento público a 150 metros, con cargadores para vehículos eléctricos. Consulta en recepción para más detalles.",
+    "en": "The old town is pedestrianised; there is a public car park 150 metres away with EV chargers. Ask at reception for details.",
+    "fr": "La vieille ville est piétonne ; un parking public se trouve à 150 mètres, avec des bornes pour véhicules électriques. Renseignez-vous à la réception.",
+    "de": "Die Altstadt ist Fußgängerzone; 150 Meter entfernt gibt es ein öffentliches Parkhaus mit Ladestationen für Elektroautos. Details an der Rezeption."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Aparcamiento público a solo 150 metros del hotel, con cargadores para vehículos eléctricos"
+    },
+    {
+     "url": "https://casasreais.es/contacto/",
+     "quote": "Casas Reais está ubicado en el casco histórico, una zona peatonal"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "centro"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse"
+    ]
+   },
+   "a": {
+    "es": "Está en la Rúa das Casas Reais, 29, 15704 Santiago de Compostela, en pleno casco histórico: a cinco minutos a pie de la Catedral y a cuatro del Mercado de Abastos.",
+    "en": "It is at Rúa das Casas Reais, 29, 15704 Santiago de Compostela, right in the old town: five minutes’ walk from the Cathedral and four from the Mercado de Abastos.",
+    "fr": "L’établissement se trouve Rúa das Casas Reais, 29, 15704 Saint-Jacques-de-Compostelle, en pleine vieille ville : à cinq minutes à pied de la cathédrale et à quatre du Mercado de Abastos.",
+    "de": "Die Unterkunft liegt in der Rúa das Casas Reais, 29, 15704 Santiago de Compostela, mitten in der Altstadt: fünf Gehminuten von der Kathedrale und vier vom Mercado de Abastos."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/contacto/",
+     "quote": "Rúa das Casas Reais, 29 · 15704 Santiago de Compostela"
+    },
+    {
+     "url": "https://casasreais.es/entorno/",
+     "quote": "a cinco minutos a pie de la Catedral y a cuatro del Mercado de Abastos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "llegar",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "llego",
+     "llegar",
+     "tren",
+     "estacion",
+     "taxi"
+    ],
+    "en": [
+     "airport",
+     "get there",
+     "train",
+     "station",
+     "taxi"
+    ],
+    "fr": [
+     "aeroport",
+     "venir",
+     "train",
+     "gare",
+     "taxi"
+    ],
+    "de": [
+     "flughafen",
+     "anreise",
+     "komme ich",
+     "bahnhof",
+     "zug",
+     "taxi"
+    ]
+   },
+   "a": {
+    "es": "Desde el aeropuerto: taxi de unos 15 minutos o bus 6A (bajar en Virxe da Cerca–Praza de Abastos 2, a unos cinco minutos a pie). Desde la estación de tren, unos 15 minutos a pie. También gestionan traslados al aeropuerto.",
+    "en": "From the airport: a taxi takes about 15 minutes, or bus 6A (get off at Virxe da Cerca–Praza de Abastos 2, about five minutes’ walk). From the train station, about 15 minutes on foot. They also arrange airport transfers.",
+    "fr": "Depuis l’aéroport : environ 15 minutes en taxi, ou bus 6A (descendre à Virxe da Cerca–Praza de Abastos 2, à environ cinq minutes à pied). Depuis la gare, environ 15 minutes à pied. Ils organisent aussi des transferts vers l’aéroport.",
+    "de": "Vom Flughafen: Taxi etwa 15 Minuten oder Bus 6A (Ausstieg Virxe da Cerca–Praza de Abastos 2, etwa fünf Gehminuten). Vom Bahnhof etwa 15 Minuten zu Fuß. Flughafentransfers werden ebenfalls organisiert."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/contacto/",
+     "quote": "Taxi: aproximadamente 15 minutos"
+    },
+    {
+     "url": "https://casasreais.es/contacto/",
+     "quote": "Bus: línea 6A, servicio con paradas. Desde el aeropuerto, baja en Virxe da Cerca–Praza de Abastos 2"
+    },
+    {
+     "url": "https://casasreais.es/contacto/",
+     "quote": "A unos 15 minutos a pie"
+    },
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Gestionamos traslados al aeropuerto"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes consultar disponibilidad en su motor de reservas (botón Reservar) o llamar al 981 555 709 o escribir a reservas@casasreais.es. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability in their booking engine (Book button), call 981 555 709 or email reservas@casasreais.es. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez consulter les disponibilités dans leur moteur de réservation (bouton Réserver), appeler le 981 555 709 ou écrire à reservas@casasreais.es. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können die Verfügbarkeit in der Buchungsmaschine prüfen (Schaltfläche Buchen), unter 981 555 709 anrufen oder an reservas@casasreais.es schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/contacto/",
+     "quote": "Consulta disponibilidad en nuestro motor de reservas o contacta con nosotros"
+    },
+    {
+     "url": "https://casasreais.es/",
+     "quote": "981 555 709 reservas@casasreais.es"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "excursiones",
+   "keys": {
+    "es": [
+     "excursion",
+     "finisterre",
+     "rias baixas",
+     "actividad"
+    ],
+    "en": [
+     "excursion",
+     "trip",
+     "finisterre",
+     "rias baixas"
+    ],
+    "fr": [
+     "excursion",
+     "finisterre",
+     "rias baixas"
+    ],
+    "de": [
+     "ausflug",
+     "finisterre",
+     "rias baixas"
+    ]
+   },
+   "a": {
+    "es": "Sí: venden directamente excursiones a Finisterre y Rías Baixas, con asesoramiento personalizado, y en recepción te ayudan a reservarlas.",
+    "en": "Yes: they sell excursions to Finisterre and the Rías Baixas directly, with personal advice, and reception helps you book them.",
+    "fr": "Oui : ils vendent directement des excursions à Finisterre et aux Rías Baixas, avec des conseils personnalisés, et la réception vous aide à les réserver.",
+    "de": "Ja: Ausflüge nach Finisterre und in die Rías Baixas werden direkt verkauft, mit persönlicher Beratung; die Rezeption hilft bei der Buchung."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Venta directa de excursiones a Finisterre, Rías Baixas, con asesoramiento personalizado"
+    },
+    {
+     "url": "https://casasreais.es/",
+     "quote": "reserva de excursiones y ayuda para organizar traslados al aeropuerto"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "que ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "catedral",
+     "obradoiro",
+     "mercado",
+     "museo"
+    ],
+    "en": [
+     "to see",
+     "visit",
+     "cathedral",
+     "obradoiro",
+     "market",
+     "museum"
+    ],
+    "fr": [
+     "que voir",
+     "visiter",
+     "cathedrale",
+     "obradoiro",
+     "marche",
+     "musee"
+    ],
+    "de": [
+     "besichtig",
+     "sehenswurd",
+     "kathedrale",
+     "obradoiro",
+     "markt",
+     "museum"
+    ]
+   },
+   "a": {
+    "es": "A pie tienes la Catedral y la Plaza del Obradoiro (5 min), el Mercado de Abastos (4 min) y el Museo do Pobo Galego y el Parque de Bonaval (3 min).",
+    "en": "On foot you have the Cathedral and Plaza del Obradoiro (5 min), the Mercado de Abastos (4 min) and the Museo do Pobo Galego and Bonaval Park (3 min).",
+    "fr": "À pied : la cathédrale et la place de l’Obradoiro (5 min), le Mercado de Abastos (4 min) et le Museo do Pobo Galego et le parc de Bonaval (3 min).",
+    "de": "Zu Fuß erreichen Sie die Kathedrale und die Plaza del Obradoiro (5 Min.), den Mercado de Abastos (4 Min.) sowie das Museo do Pobo Galego und den Park Bonaval (3 Min.)."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/entorno/",
+     "quote": "Catedral de Santiago de Compostela (5 min a pie)"
+    },
+    {
+     "url": "https://casasreais.es/entorno/",
+     "quote": "Plaza del Obradoiro (5 min a pie)"
+    },
+    {
+     "url": "https://casasreais.es/entorno/",
+     "quote": "Museo do Pobo Galego y Parque de Bonaval (3 min a pie)"
+    },
+    {
+     "url": "https://casasreais.es/entorno/",
+     "quote": "Mercado de Abastos (4 min a pie)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar",
+     "horario"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call",
+     "hours"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler",
+     "horaires"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen",
+     "offnungszeit"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: 981 555 709. Correo: reservas@casasreais.es. Atienden todos los días de 08:00 a 22:00.",
+    "en": "Phone: 981 555 709. Email: reservas@casasreais.es. They answer every day from 08:00 to 22:00.",
+    "fr": "Téléphone : 981 555 709. E-mail : reservas@casasreais.es. Ils répondent tous les jours de 08:00 à 22:00.",
+    "de": "Telefon: 981 555 709. E-Mail: reservas@casasreais.es. Erreichbar täglich von 08:00 bis 22:00."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/",
+     "quote": "981 555 709 reservas@casasreais.es"
+    },
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Todos los días: 08:00–22:00"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "equipaje",
+   "keys": {
+    "es": [
+     "maleta",
+     "equipaje",
+     "plancha",
+     "ascensor",
+     "lavanderia"
+    ],
+    "en": [
+     "luggage",
+     "baggage",
+     "iron",
+     "lift",
+     "elevator",
+     "laundry"
+    ],
+    "fr": [
+     "bagage",
+     "valise",
+     "fer a repasser",
+     "ascenseur",
+     "laverie"
+    ],
+    "de": [
+     "gepack",
+     "koffer",
+     "bugeleisen",
+     "aufzug",
+     "wascherei"
+    ]
+   },
+   "a": {
+    "es": "Sí: hay guarda equipajes gratuito, préstamo de plancha y tabla, ascensor hasta la tercera planta y una lavandería a 30 metros.",
+    "en": "Yes: there is free luggage storage, an iron and ironing board on loan, a lift up to the third floor and a laundry 30 metres away.",
+    "fr": "Oui : consigne à bagages gratuite, prêt de fer et de planche à repasser, ascenseur jusqu’au troisième étage et une laverie à 30 mètres.",
+    "de": "Ja: kostenlose Gepäckaufbewahrung, Bügeleisen und Bügelbrett zum Ausleihen, ein Aufzug bis in den dritten Stock und eine Wäscherei 30 Meter entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://casasreais.es/",
+     "quote": "Guarda equipajes gratuito, préstamo de plancha y tabla, ascensor hasta la tercera planta y lavandería disponible a 30 metros"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
