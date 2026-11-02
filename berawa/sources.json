@@ -1,0 +1,36 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://casasreais.es/",
+ "read_at": "2026-11-02T09:00:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://casasreais.es/",
+   "sha256": "2e0f51cb6564510178ecf34d29f4708f0b8f6e763a16e804087a2aa65eda5135",
+   "chars": 7020
+  },
+  {
+   "url": "https://casasreais.es/contacto/",
+   "sha256": "f712682ecb7971139d6ffadad94295bdb530017255713f4a9ea6dffc269c6067",
+   "chars": 4433
+  },
+  {
+   "url": "https://casasreais.es/entorno/",
+   "sha256": "f8facd1b065b7756c06e9fd1cc0b6627f3a9d182986234a390dbab189fe95c29",
+   "chars": 4686
+  },
+  {
+   "url": "https://casasreais.es/habitaciones/",
+   "sha256": "09b7a05432e67124a24133cdb2e934201c7d8477528469ad49349da9d6ef85ed",
+   "chars": 4111
+  }
+ ],
+ "other_pages_read": [
+  "https://casasreais.es",
+  "https://casasreais.es/accesibilidad/",
+  "https://casasreais.es/aviso-legal/",
+  "https://casasreais.es/politica-de-privacidad/",
+  "https://casasreais.es/wp-content/uploads/2025/03/favicon-150x146.gif",
+  "https://casasreais.es/wp-content/uploads/2025/03/favicon.gif"
+ ]
+}

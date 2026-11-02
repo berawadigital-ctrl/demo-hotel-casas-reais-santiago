@@ -1,0 +1,420 @@
+{
+ "url": "file:///tmp/clon-hotel-casas-reais-santiago/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 11 habitaciones, todas exteriores e insonorizadas: doble (cama de 150 cm), doble superior (en esquina, más amplia), doble deluxe (cama d"
+    },
+    {
+     "q": "¿Hay bañera de hidromasaje?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la bañera de hidromasaje está en las habitaciones Deluxe y Ático."
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Todas tienen colchones premium, Smart TV de 55” o 65” según la habitación, escritorio, WiFi gratuito, aire acondicionado, calefacción, minib"
+    },
+    {
+     "q": "¿Cómo es el desayuno?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El desayuno es artesano: pan, bollería y tarta de Santiago elaborados a mano, con café de alta calidad. Se sirve en la cafetería y salón par"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El casco histórico es zona peatonal; hay un aparcamiento público a 150 metros, con cargadores para vehículos eléctricos. Consulta en recepci"
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Está en la Rúa das Casas Reais, 29, 15704 Santiago de Compostela, en pleno casco histórico: a cinco minutos a pie de la Catedral y a cuatro "
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Desde el aeropuerto: taxi de unos 15 minutos o bus 6A (bajar en Virxe da Cerca–Praza de Abastos 2, a unos cinco minutos a pie). Desde la est"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes consultar disponibilidad en su motor de reservas (botón Reservar) o llamar al 981 555 709 o escribir a reservas@casasreais.es. Este a"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes consultar disponibilidad en su motor de reservas (botón Reservar) o llamar al 981 555 709 o escribir a reservas@casasreais.es. Este a"
+    },
+    {
+     "q": "¿Organizáis excursiones?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí: venden directamente excursiones a Finisterre y Rías Baixas, con asesoramiento personalizado, y en recepción te ayudan a reservarlas."
+    },
+    {
+     "q": "¿Qué ver cerca?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "A pie tienes la Catedral y la Plaza del Obradoiro (5 min), el Mercado de Abastos (4 min) y el Museo do Pobo Galego y el Parque de Bonaval (3"
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: 981 555 709. Correo: reservas@casasreais.es. Atienden todos los días de 08:00 a 22:00. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Puedo dejar las maletas?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: hay guarda equipajes gratuito, préstamo de plancha y tabla, ascensor hasta la tercera planta y una lavandería a 30 metros."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 555 709 · reservas@casasreais.es."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 981 555 709 · reservas@casasreais.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Cómo es el desayuno?",
+    "¿Hay parking?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 11 rooms, all exterior-facing and soundproofed: double (150 cm bed), superior double (corner, more spacious), deluxe double (180 c"
+    },
+    {
+     "q": "Are there rooms with a whirlpool bath?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: the whirlpool bath is in the Deluxe and Attic rooms."
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "All have premium mattresses, a 55” or 65” Smart TV depending on the room, a desk, free WiFi, air conditioning, heating, a minibar and a safe"
+    },
+    {
+     "q": "What is breakfast like?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Breakfast is homemade: bread, pastries and Santiago tart made by hand, with high-quality coffee. It is served in the guests’ café and lounge"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The old town is pedestrianised; there is a public car park 150 metres away with EV chargers. Ask at reception for details."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It is at Rúa das Casas Reais, 29, 15704 Santiago de Compostela, right in the old town: five minutes’ walk from the Cathedral and four from t"
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "From the airport: a taxi takes about 15 minutes, or bus 6A (get off at Virxe da Cerca–Praza de Abastos 2, about five minutes’ walk). From th"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can check availability in their booking engine (Book button), call 981 555 709 or email reservas@casasreais.es. This assistant does not "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can check availability in their booking engine (Book button), call 981 555 709 or email reservas@casasreais.es. This assistant does not "
+    },
+    {
+     "q": "Do you organise excursions?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes: they sell excursions to Finisterre and the Rías Baixas directly, with personal advice, and reception helps you book them."
+    },
+    {
+     "q": "What is there to see nearby?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "On foot you have the Cathedral and Plaza del Obradoiro (5 min), the Mercado de Abastos (4 min) and the Museo do Pobo Galego and Bonaval Park"
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: 981 555 709. Email: reservas@casasreais.es. They answer every day from 08:00 to 22:00. Ask on WhatsApp →"
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: there is free luggage storage, an iron and ironing board on loan, a lift up to the third floor and a laundry 30 metres away."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 555 709 · reservas@casasreais.es."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 981 555 709 · reservas@casasreais.es."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "What is breakfast like?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 11 chambres, toutes sur l’extérieur et insonorisées : double (lit de 150 cm), double supérieure (d’angle, plus spacieuse), double del"
+    },
+    {
+     "q": "Y a-t-il des chambres avec baignoire balnéo ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : la baignoire balnéo se trouve dans les chambres Deluxe et Ático (sous les toits)."
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Toutes ont des matelas premium, une Smart TV 55” ou 65” selon la chambre, un bureau, le WiFi gratuit, la climatisation, le chauffage, un min"
+    },
+    {
+     "q": "Comment est le petit-déjeuner ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le petit-déjeuner est artisanal : pain, viennoiseries et tarte de Santiago faits main, avec un café de grande qualité. Il est servi dans la "
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La vieille ville est piétonne ; un parking public se trouve à 150 mètres, avec des bornes pour véhicules électriques. Renseignez-vous à la r"
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L’établissement se trouve Rúa das Casas Reais, 29, 15704 Saint-Jacques-de-Compostelle, en pleine vieille ville : à cinq minutes à pied de la"
+    },
+    {
+     "q": "Comment venir depuis l’aéroport ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Depuis l’aéroport : environ 15 minutes en taxi, ou bus 6A (descendre à Virxe da Cerca–Praza de Abastos 2, à environ cinq minutes à pied). De"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez consulter les disponibilités dans leur moteur de réservation (bouton Réserver), appeler le 981 555 709 ou écrire à reservas@casa"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez consulter les disponibilités dans leur moteur de réservation (bouton Réserver), appeler le 981 555 709 ou écrire à reservas@casa"
+    },
+    {
+     "q": "Organisez-vous des excursions ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui : ils vendent directement des excursions à Finisterre et aux Rías Baixas, avec des conseils personnalisés, et la réception vous aide à l"
+    },
+    {
+     "q": "Que voir à proximité ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "À pied : la cathédrale et la place de l’Obradoiro (5 min), le Mercado de Abastos (4 min) et le Museo do Pobo Galego et le parc de Bonaval (3"
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : 981 555 709. E-mail : reservas@casasreais.es. Ils répondent tous les jours de 08:00 à 22:00. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : consigne à bagages gratuite, prêt de fer et de planche à repasser, ascenseur jusqu’au troisième étage et une laverie à 30 mètres."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 555 709 · reservas@casasreais.es."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 981 555 709 · reservas@casasreais.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Comment est le petit-déjeuner ?",
+    "Où se garer ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 11 Zimmer, alle nach außen gelegen und schallisoliert: Doppelzimmer (150-cm-Bett), Doppelzimmer Superior (Ecklage, geräumiger), Delu"
+    },
+    {
+     "q": "Gibt es Zimmer mit Whirlpool?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja: Die Whirlpool-Badewanne gibt es in den Zimmern Deluxe und Ático (Dachgeschoss)."
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Alle haben Premium-Matratzen, ein 55”- oder 65”-Smart-TV je nach Zimmer, Schreibtisch, kostenloses WLAN, Klimaanlage, Heizung, Minibar und S"
+    },
+    {
+     "q": "Wie ist das Frühstück?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Das Frühstück ist handgemacht: Brot, Gebäck und Santiago-Torte, dazu Kaffee in hoher Qualität. Serviert wird es im Café und Aufenthaltsraum "
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Altstadt ist Fußgängerzone; 150 Meter entfernt gibt es ein öffentliches Parkhaus mit Ladestationen für Elektroautos. Details an der Reze"
+    },
+    {
+     "q": "Wo liegt die Unterkunft?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Die Unterkunft liegt in der Rúa das Casas Reais, 29, 15704 Santiago de Compostela, mitten in der Altstadt: fünf Gehminuten von der Kathedral"
+    },
+    {
+     "q": "Wie komme ich vom Flughafen hin?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vom Flughafen: Taxi etwa 15 Minuten oder Bus 6A (Ausstieg Virxe da Cerca–Praza de Abastos 2, etwa fünf Gehminuten). Vom Bahnhof etwa 15 Minu"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können die Verfügbarkeit in der Buchungsmaschine prüfen (Schaltfläche Buchen), unter 981 555 709 anrufen oder an reservas@casasreais.es "
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können die Verfügbarkeit in der Buchungsmaschine prüfen (Schaltfläche Buchen), unter 981 555 709 anrufen oder an reservas@casasreais.es "
+    },
+    {
+     "q": "Organisieren Sie Ausflüge?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja: Ausflüge nach Finisterre und in die Rías Baixas werden direkt verkauft, mit persönlicher Beratung; die Rezeption hilft bei der Buchung."
+    },
+    {
+     "q": "Was kann man in der Nähe besichtigen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Zu Fuß erreichen Sie die Kathedrale und die Plaza del Obradoiro (5 Min.), den Mercado de Abastos (4 Min.) sowie das Museo do Pobo Galego und"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: 981 555 709. E-Mail: reservas@casasreais.es. Erreichbar täglich von 08:00 bis 22:00. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Kann ich mein Gepäck abgeben?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja: kostenlose Gepäckaufbewahrung, Bügeleisen und Bügelbrett zum Ausleihen, ein Aufzug bis in den dritten Stock und eine Wäscherei 30 Meter "
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 981 555 709 · reservas@casasreais.es."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 981 555 709 · reservas@casasreais.es."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Wie ist das Frühstück?",
+    "Wo kann ich parken?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
