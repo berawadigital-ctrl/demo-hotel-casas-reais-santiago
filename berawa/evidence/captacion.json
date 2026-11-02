@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-casas-reais-santiago",
+ "maps": {
+  "fecha": "2026-10-29T16:31:52+01:00",
+  "estado": "LEIDA",
+  "ficha": "Casas Reais P.R.",
+  "nota": 4.5,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": true
+  },
+  "url": "https://www.google.com/maps/place/Casas+Reais+P.R./@42.8819041,-8.5404406,17z/data=!4m9!3m8!1s0xd2efe459652932b:0xb2328c8244adab72!5m2!4m1!1i2!8m2!3d42.8819041!4d-8.5404406!16s%2Fg%2F1hc846x1s",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T16:31:52+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "PORTA DO CAMIÑO FRANCÉS, S.L.",
+  "cif": "B70096185",
+  "fuente": "https://casasreais.es/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal casasreais.es: PORTA DO CAMIÑO FRANCES, S.L. (B70096185), Casas Reais 23 Santiago; la web no presenta otros centros del titular"
+ }
+}
