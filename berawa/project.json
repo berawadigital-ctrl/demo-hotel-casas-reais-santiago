@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-casas-reais-santiago",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T08:58:00+01:00",
+ "updated_at": "2026-11-02T09:10:00+01:00",
+ "business": {
+  "name": "Casas Reais",
+  "legal_name": "PORTA DO CAMIÑO FRANCÉS, S.L., NIF B70096185 (aviso legal de su web)",
+  "registry_ids": [
+   "B70096185"
+  ],
+  "url": "https://casasreais.es/",
+  "domain": "casasreais.es",
+  "municipality": "Santiago de Compostela",
+  "province": "A Coruña",
+  "address": "Rúa das Casas Reais, 29 · 15704 Santiago de Compostela",
+  "phones": [
+   "+34 981 555 709"
+  ],
+  "emails": [
+   "reservas@casasreais.es"
+  ],
+  "sector": "alojamiento boutique de 11 habitaciones en el casco historico de Santiago"
+ },
+ "rating": {
+  "value": 4.5,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/Casas+Reais+P.R./@42.8819041,-8.5404406,17z",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://casasreais.es/#reservas",
+  "note": "motor WuBook incrustado en su propia web (seccion #reservas de la portada, widget de WuBook «Casas Reais»; los botones Reservar de su web llevan ahi). Sin URL directa publica del motor: se enlaza su seccion de reservas, HTTP 200 (02/11/2026 09:00). Solo en espanol, mismo enlace en los 4 idiomas."
+ },
+ "audit_original": {
+  "url": "https://casasreais.es/",
+  "date": "2026-11-02T09:00:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
